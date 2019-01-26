@@ -148,7 +148,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 108.04, y: -0.00063103}
+  m_AnchoredPosition: {x: 137.42, y: 0.00000041572}
   m_SizeDelta: {x: 20, y: 133.89}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &112051269
@@ -190,8 +190,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 145323118}
   m_HandleRect: {fileID: 145323117}
   m_Direction: 2
-  m_Value: 0.96801245
-  m_Size: 0.3009102
+  m_Value: 0.96801263
+  m_Size: 0.30091017
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -413,7 +413,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -177.27}
+  m_AnchoredPosition: {x: 0, y: -177.27002}
   m_SizeDelta: {x: 0, y: -354.54}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &204956904
@@ -487,8 +487,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.48, y: -145.58}
-  m_SizeDelta: {x: 213.8, y: 444.95}
+  m_AnchoredPosition: {x: -7.17, y: -145.58}
+  m_SizeDelta: {x: 264.01, y: 444.95}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &401872345
 MonoBehaviour:
@@ -699,8 +699,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -36.4, y: 0}
-  m_SizeDelta: {x: -72.8, y: 0}
+  m_AnchoredPosition: {x: 0.51000977, y: 0}
+  m_SizeDelta: {x: -14.43, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1442331887
 MonoBehaviour:
@@ -787,8 +787,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0000061989, y: 0.0011821}
-  m_SizeDelta: {x: 233, y: 133.89}
+  m_AnchoredPosition: {x: -0.000011444, y: 0.0011821}
+  m_SizeDelta: {x: 305.8, y: 133.89}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1586264431
 MonoBehaviour:
